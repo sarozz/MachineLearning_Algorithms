@@ -1,4 +1,5 @@
-Linear Regresssion
+        Linear Regresssion
+
  Steps in implementation of linear regression model in googles stocks datasets
  1. First, get the datasets. 
  2. Before implementing the algorithm, filter out the unwanted features that have no role to play in predicting the label
